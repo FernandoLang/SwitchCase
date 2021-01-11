@@ -41,7 +41,7 @@ s.case_else(print_phrase, "this is as default case")
 
 #######################################################
 
-############### OUTPUT CASE ANY IS NOT TRUE ###############
+############### OUTPUT CASE ANY IS FALSE ##############
 #C:\User\****\Desktop\pythonExemple>python exemple.py
 
 #this is as default case
